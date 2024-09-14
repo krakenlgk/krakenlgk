@@ -19,8 +19,8 @@ A passionate Cloud engineer from India
 ![Profile views](https://komarev.com/ghpvc/?username=krakenlgk&color=brightgreen)
 
 - 🌱 I'm currently learning **Go**
-- 🚀 All of my projects are available at [[https://www.yourwebsite.com/](https://github.com/krakenlgk)]
-- 📫 How to reach me [youremail@example.com](mailto:lgkarthikeyan94@gmail.com)
+- 🚀 All of my projects are available at [[https://github.com/krakenlgk/](https://github.com/krakenlgk)]
+- 📫 How to reach me [lgkarthikeyan94@gmail.com.com](mailto:lgkarthikeyan94@gmail.com)
 - ⚡ Fun fact: I am excited about new technologies, Finance, Cricket!!
 
 ## Connect with me:
@@ -31,9 +31,10 @@ A passionate Cloud engineer from India
 ## Some Tools I Have Used and Learned:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/>
 <!-- Add more tool icons as needed -->
 </p>
 
