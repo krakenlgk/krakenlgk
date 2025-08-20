@@ -1,51 +1,92 @@
-## Hi there 👋, I'm Karthikeyan
+# Hi there 👋, I'm Karthikeyan
 
-<!--
-**krakenlgk/krakenlgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-A passionate Cloud engineer from India
+**Site Reliability Engineer | Backend Developer | Cloud Infrastructure Enthusiast**
 
 ![Profile views](https://komarev.com/ghpvc/?username=krakenlgk&color=brightgreen)
 
-- 🌱 I'm currently learning **Go**
-- 🚀 All of my projects are available at [[https://github.com/krakenlgk/](https://github.com/krakenlgk)]
-- 📫 How to reach me [lgkarthikeyan94@gmail.com.com](mailto:lgkarthikeyan94@gmail.com)
-- ⚡ Fun fact: I am excited about new technologies, Finance, Cricket!!
+A passionate **Site Reliability Engineer** and **Backend Developer** from India with expertise in building scalable, reliable systems and maintaining high-availability infrastructure.
 
-## Connect with me:
-<a href="https://github.com/krakenlgk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+## 🚀 What I Do
 
-## Some Tools I Have Used and Learned:
+- 🔧 **Infrastructure as Code**: Designing and managing cloud infrastructure using Terraform
+- ⚙️ **Container Orchestration**: Deploying and scaling applications with Kubernetes
+- 🐍 **Backend Development**: Building robust APIs and microservices with Python and Go
+- 📊 **Monitoring & Observability**: Implementing comprehensive monitoring, logging, and alerting systems
+- 🔄 **CI/CD & DevOps**: Automating deployment pipelines and ensuring smooth releases
+- 🛡️ **System Reliability**: Maintaining 99.9% uptime and implementing disaster recovery strategies
+
+## 🌱 Currently Learning & Exploring
+
+- **Go** - Learning Go for high-performance backend services and infrastructure tooling
+- **Infrastructure Projects** - Building hands-on projects to deepen infrastructure expertise
+- **Backend Technologies** - Exploring Kafka, RabbitMQ, GraphQL, and gRPC
+- **Cloud-Native Ecosystem** - Expanding knowledge in CNCF technologies
+
+## 🛠️ Technical Stack
+
+### **Languages**
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/>
-<!-- Add more tool icons as needed -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krakenlgk&layout=compact)
+### **Infrastructure & DevOps**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p>
 
-## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=krakenlgk&show_icons=true&theme=radical)
+### **Monitoring & Observability**
+- **Metrics**: Prometheus, Grafana, CloudWatch
+- **Logging**: ELK Stack, Fluentd
+- **Tracing**: OpenTelemetry
+- **APM**: Familiar with New Relic, Datadog concepts
 
-## Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=krakenlgk&theme=dracula)
+### **Backend Technologies**
+- **Frameworks**: FastAPI, Django, Flask
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **API Development**: REST APIs
+- **Exploring**: Apache Kafka, RabbitMQ, GraphQL, gRPC
+
+## 🎯 Core Expertise
+
+- **Automation**: Infrastructure automation and process optimization
+- **Observability**: Comprehensive monitoring, logging, and distributed tracing with OpenTelemetry
+- **Infrastructure as Code**: Terraform for cloud resource management
+- **Container Orchestration**: Kubernetes deployment and scaling
+- **CI/CD**: Automated deployment pipelines
+- **System Reliability**: Maintaining high-availability systems
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krakenlgk" alt="GitHub streak stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=krakenlgk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krakenlgk&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krakenlgk&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## 🚀 Featured Projects
+
+> 📝 *Showcase your best SRE/Backend projects here with brief descriptions*
+
+## 📫 Let's Connect
+
+- **Email**: [lgkarthikeyan94@gmail.com](mailto:lgkarthikeyan94@gmail.com)
+- **GitHub**: [@krakenlgk](https://github.com/krakenlgk)
+- **LinkedIn**: [@karthikeyan-lg](https://www.linkedin.com/in/karthikeyan-lg/)
+
+---
+
+<p align="center">
+  <i>🔍 Currently seeking SRE/Backend Engineering opportunities</i><br>
+  <i>💡 Passionate about building reliable, scalable systems that power great user experiences</i>
 </p>
